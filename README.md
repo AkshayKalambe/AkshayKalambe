@@ -63,19 +63,7 @@
 
 ---
 
-<img align="left" alt="Akshay Kalambe Github Stats" src="https://github-readme-stats.AkshayKalambe.vercel.app/api?username=AkshayKalambe&show_icons=true&hide_border=true" />
-
-
----
-
-### kkkkk
-
-<img alt="kya pta" src="https://github-readme-stats.akshaykalambe.vercel.app/api?username=akshaykalambe&show_icons=true&theme=radical" />
-
-
----
-
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.akshaykalambe.vercel.app/api?username=AkshayKalambe&show_icons=true&hide_border=true" />
 
 
 [website]: https://softwarechef.in
