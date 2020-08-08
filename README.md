@@ -63,13 +63,13 @@
 
 ---
 
-<img align="left" alt="AkshayKalambe's Github Stats" src="https://github-readme-stats.AkshayKalambe.vercel.app/api?username=AkshayKalambe&show_icons=true&hide_border=true" />
+<img align="left" alt="Akshay Kalambe Github Stats" src="https://github-readme-stats.AkshayKalambe.vercel.app/api?username=AkshayKalambe&show_icons=true&hide_border=true" />
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[website]: https://softwarechef.in
+[twitter]: https://twitter.com/hum_hai_ak
+[youtube]: https://youtube.com/
+[instagram]: https://instagram.com/akshay_not_kumar
+[linkedin]: https://linkedin.com/in/akshay07
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
