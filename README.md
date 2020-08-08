@@ -63,7 +63,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.AkshayKalambe.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="AkshayKalambe's Github Stats" src="https://github-readme-stats.AkshayKalambe.vercel.app/api?username=AkshayKalambe&show_icons=true&hide_border=true" />
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/codeSTACKr
