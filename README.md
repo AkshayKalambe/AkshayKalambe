@@ -1,11 +1,11 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Jesse - aka [softwareChef][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a Coder, Designer, and Developer!
 - 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything related to web🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2021 Goals: Contribute to Open Source projects
+- ⚡ Fun fact: I love to draw and play sports
 
 ### Connect with me:
 
@@ -64,6 +64,8 @@
 ---
 
 <img align="left" alt="Akshay Kalambe Github Stats" src="https://github-readme-stats.AkshayKalambe.vercel.app/api?username=AkshayKalambe&show_icons=true&hide_border=true" />
+
+<img alt="kya pta" src=https://github-readme-stats.vercel.app/api?username=akshaykalambe&show_icons=true&theme=radical/>
 
 [website]: https://softwarechef.in
 [twitter]: https://twitter.com/hum_hai_ak
