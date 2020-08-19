@@ -1,4 +1,4 @@
-### Hi there, I'm Jesse - aka [softwareChef][website] 👋
+### Hi there, I'm Akshay - aka [softwareChef][website] 👋
 
 ## I'm a Coder, Designer, and Developer!
 - 🔭 I’m currently working on a [VS Code Course][website]!
