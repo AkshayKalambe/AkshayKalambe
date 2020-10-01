@@ -41,14 +41,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [GSAP Typing Animation | Tween & Timeline Basics (2020)]()
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions]()
-- [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!]()
-- [Simple React.js User Login Authentication | Auth0]()
-- [Top 10 VS Code Updates You Don't Know About!! (July 2020)]()
-<!-- YOUTUBE:END -->
+
 
 ---
 
